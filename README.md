@@ -16,5 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ### Hey there 👋
-I am Andy Chung, an indie iOS developer.
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+welome to my page!
+I'm Andy Chung, an indie iOS app developer who know a little bit about web dev.
+
+#### I built my projects with: 
+Swift, Xcode, React, Node.js, VSCode, Figma, etc...
+
+#### I'm going to learn: 
+D3.js
