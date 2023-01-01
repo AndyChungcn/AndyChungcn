@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hey there 👋
 welome to my page!
-I'm Andy Chung, an indie iOS app developer who know a little bit about web dev.
+I'm Andy Chung, an indie iOS app developer with some knowledge of web development.
 
 #### I built my projects with: 
 Swift, Xcode, React, Node.js, VSCode, Figma, etc...
